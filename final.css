@@ -25,9 +25,9 @@ li {
 	/*margin-top: 30px;*/
 }
 
-/*img {
-	float: right;
-}*/
+img {
+	padding-left: 30px;
+}
 
 #header {
 	/*display: inline-block;
@@ -36,6 +36,6 @@ li {
 	zoom: 1;
 }
 
-h1 {
-	vertical-align: middle;
+h1{
+	text-align: center;
 }
