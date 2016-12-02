@@ -1,0 +1,24 @@
+#navBar {
+	display: inline-block;
+}
+
+#container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+#fixed {
+	position: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	display: inline;
+	padding-left: 50px;
+	padding-right: 50px;
+}
