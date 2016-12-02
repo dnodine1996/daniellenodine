@@ -29,6 +29,10 @@ li {
 	margin-top: 30px;
 }
 
-#header {
-	overflow: auto;
+img {
+	float: right;
 }
+
+/*#header {
+	overflow: auto;
+}*/
