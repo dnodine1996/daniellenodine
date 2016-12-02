@@ -29,6 +29,6 @@ img {
 	float: right;
 }
 
-/*#header {
-	overflow: auto;
-}*/
+#header {
+	display: inline-block;
+}
