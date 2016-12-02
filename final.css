@@ -5,7 +5,7 @@
 #container {
 	max-width: 800px;
 	margin: 0 auto;
-	margin-top: 30px;
+	margin-top: 100px;
 }
 
 #fixed {
@@ -25,5 +25,5 @@ li {
 }
 
 #page1 {
-	margin-top: 10px;
+	margin-top: 50px;
 }
