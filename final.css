@@ -27,12 +27,12 @@ li {
 
 img {
 	float: right;
-	width: 25%;
 }
 
 #header {
 	display: inline-block;
 	width: 700px;
+	overflow: auto;
 }
 
 h1 {
