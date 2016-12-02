@@ -9,10 +9,6 @@
 	margin-top: 50px;
 }
 
-#fixed {
-	position: fixed;
-}
-
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -26,7 +22,7 @@ li {
 }
 
 #page1 {
-	margin-top: 30px;
+	/*margin-top: 30px;*/
 }
 
 img {
