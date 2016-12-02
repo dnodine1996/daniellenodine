@@ -1,5 +1,6 @@
 #navBar {
 	display: inline-block;
+	padding-top: 30px;
 }
 
 #container {
@@ -30,5 +31,4 @@ li {
 
 #header {
 	overflow: auto;
-	padding-bottom: 30px;
 }
