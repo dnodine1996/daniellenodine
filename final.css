@@ -34,6 +34,6 @@ img {
 	width: 700px;*/
 	overflow: auto;
 	zoom: 1;
-	text-align: center;
+	vertical-align: center;
 }
 
