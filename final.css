@@ -1,7 +1,6 @@
 #navBar {
 	display: inline-block;
 	padding-top: 30px;
-	background-color: light grey;
 }
 
 #container {
@@ -14,6 +13,7 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background-color: light grey;
 }
 
 li {
