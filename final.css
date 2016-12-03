@@ -21,7 +21,7 @@ li {
 	display: inline;
 	padding-left: 50px;
 	padding-right: 50px;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
 	
 }
 
@@ -47,3 +47,4 @@ a:visited {
 a:hover {
 	text-decoration: underline;
 }
+
