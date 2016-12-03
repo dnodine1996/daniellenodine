@@ -21,7 +21,7 @@ p {
 	padding: 0px;
 }
 
-faqs > ul >li {
+#faqs > ul >li {
 	background-color: transparent;
 	display: block;
 	padding: 0px;
