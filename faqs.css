@@ -14,19 +14,3 @@ p {
 	text-align: justify;
 	line-height: 2;
 }
-
-#faqs > ul {
-	background-color: transparent;
-	list-style-type: disc;
-	padding: 0px;
-}
-
-#faqs > ul >li {
-	background-color: transparent;
-	display: block;
-	padding: 0px;
-	letter-spacing: normal;
-	list-style-type: disc;
-}
-
-
