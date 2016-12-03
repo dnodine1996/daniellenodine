@@ -15,13 +15,13 @@ ul {
 	padding: 0;
 	background-color: #c6c9ce;
 	padding: 5px 5px 5px 5px;
-	letter-spacing: 5px;
 }
 
 li {
 	display: inline;
 	padding-left: 50px;
 	padding-right: 50px;
+	letter-spacing: 5px;
 	
 }
 
