@@ -15,3 +15,11 @@ p {
 	line-height: 2;
 }
 
+#faqs > ul {
+	background-color: transparent;
+}
+
+faqs > ul >li {
+	background-color: transparent;
+}
+
