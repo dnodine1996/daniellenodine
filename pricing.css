@@ -19,3 +19,12 @@ p {
 	line-height: 2;
 }
 
+th, td {
+    padding: 10px;
+	text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
