@@ -56,7 +56,6 @@ a:hover {
 }
 
 btmnav {
-	position: fixed;
-  	bottom: 0;
+	padding-bottom: 0;
 }
 
