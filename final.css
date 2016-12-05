@@ -55,3 +55,8 @@ a:hover {
 	text-decoration: underline;
 }
 
+btmnav {
+	position: fixed;
+  	bottom: 0;
+}
+
